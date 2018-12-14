@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "641245983960",
+    "firebase_url": "https://wimsapp-hci.firebaseio.com",
+    "project_id": "wimsapp-hci",
+    "storage_bucket": "wimsapp-hci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641245983960:android:2e71dc23f40e57a1",
+        "android_client_info": {
+          "package_name": "com.example.alessandro.WIMSapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641245983960-409rd81h6c137ifc7obrc849pc6veno9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alessandro.WIMSapp",
+            "certificate_hash": "c56d52a36cff7ee0fd687e7f75e7e73879fff2aa"
+          }
+        },
+        {
+          "client_id": "641245983960-7gtivhfl5u3ut2antmim4a8du2lqf8ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIYjRw-VJulNF4k2o34hbkBYwuiRZ240"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641245983960-ie152529c8d4j9v7ekc02m38p0fh2umu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
